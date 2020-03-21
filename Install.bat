@@ -1,0 +1,1 @@
+pip install pykakasi pillow pyautogui baidu-aip
